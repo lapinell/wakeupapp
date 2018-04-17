@@ -30,5 +30,4 @@ Your group will create a Single Page Application that is essentially a dashboard
 For example:
   create-react-app my-react-app
 
-Run create-react-app --help to see all options., , .
-# Wake Up App
+Run create-react-app --help to see all options.
