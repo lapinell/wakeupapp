@@ -4,7 +4,6 @@
 
 You will create a Single Page Application that is essentially a dashboard for a user to use when they wake up in the morning to keep track of the weather, news, etc.
 
-
 ## Getting Started
 
 > **Pro Tip:** If you find yourself writing logic on the first day of the sprint, then you did not spend enough time planning, and gaining clarification on the acceptance criteria.
