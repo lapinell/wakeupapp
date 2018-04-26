@@ -4,7 +4,8 @@
   "description": "WakeUp App is a morning dashboard for the overly-busy professional that wants to stay ahead of competition and keeping their finger on the pulse of global news and industry trends.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack-dev-server --mode development"
   },
   "repository": {
     "type": "git",
