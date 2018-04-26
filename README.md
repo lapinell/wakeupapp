@@ -11,4 +11,3 @@ Tabs include:
 And for on the road:
 1. Places to eat (Yelp?)
 1. Transportation tips (Flights? Waze? GoogleMaps?)
-
