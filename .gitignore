@@ -1,0 +1,6 @@
+checklist.todo
+mockups/
+node_modules/
+.vscode
+package-lock.json
+dist
